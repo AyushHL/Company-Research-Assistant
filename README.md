@@ -23,7 +23,7 @@ This is an AI-powered agent designed to assist users in researching companies an
    pip install -r requirements.txt
    ```
 3. **Set up Environment Variables**:
-   Create a `.env` file and add your OpenAI API key:
+   Create a `.env` file and add your Google API key:
    ```
    GOOGLE_API_KEY=...
    ```
