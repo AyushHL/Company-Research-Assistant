@@ -25,7 +25,7 @@ This is an AI-powered agent designed to assist users in researching companies an
 3. **Set up Environment Variables**:
    Create a `.env` file and add your OpenAI API key:
    ```
-   OPENAI_API_KEY=sk-...
+   GOOGLE_API_KEY=...
    ```
 4. **Run the application**:
    ```bash
